@@ -20,3 +20,7 @@ year_code = employee_code[4:8]
 initials = employee_code[9:11]
 print(year_code)
 print(initials)
+last_three = employee_code[-3:]
+print(last_three)
+
+# In dieser Aufgabe habe ich verschiedene Datentypen und deren Manipulation kennengelernt. Ich habe gelernt, wie man Strings zusammenfügt, Variablen aktualisiert und wie man auf bestimmte Teile eines Strings zugreift. Außerdem habe ich die Verwendung von f-Strings zur Formatierung von Ausgaben kennengelernt.
