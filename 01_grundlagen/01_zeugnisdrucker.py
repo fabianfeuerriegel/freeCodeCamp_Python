@@ -11,3 +11,10 @@ print(age, type(age))
 
 score = 80.5
 print(isinstance(score, float))
+print(score, type(score))
+
+# In dieser Aufgabe habe ich die Unterschiede von verschiedenen Datentypen kennengelernt.
+# Desweiteren habe ich auch die 'Type' Funktion kennengelernt, die mir den Datentyp einer Variable ausgibt.
+
+
+
