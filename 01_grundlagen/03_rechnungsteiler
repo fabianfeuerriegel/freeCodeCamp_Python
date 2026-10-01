@@ -21,3 +21,10 @@ final_bill = running_total / num_of_friends
 
 print('Bill per person:', final_bill)
 
+each_pays = round(final_bill, 2)
+print('Each person pays:', each_pays)
+
+# Die Übung an sich war gut. Bei der letzten Aufgabe habe ich allerdings vor die
+# Variablen "running_total" und "num_of_friends" jeweils ein "float()" gesetzt,
+# was der Prüfer als falsch gewertet hat. Zuerst habe ich nicht verstanden, wieso,
+# konnte das Problem aber durch Recherchen lösen.
